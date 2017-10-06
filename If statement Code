@@ -1,0 +1,14 @@
+# a is a variable storing 5 in it.
+# b is a variable storing 8 in it.
+# c is a variable storing 5 in it.
+
+a = 5
+b = 8
+c = 5
+
+
+# if a is smaller than b and b is bigger than c print out (5 is smaller than 8 and 8 is bigger than 5)
+if a < b > c:
+    print("5 is smaller than 8 and 8 is bigger than 5")
+
+# It works!
